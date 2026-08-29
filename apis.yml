@@ -12,6 +12,8 @@ description: >-
   the API Evangelist network as an a16z portfolio company; no public developer program,
   API reference, or machine-readable API surface was found during enrichment.
 url: https://raw.githubusercontent.com/api-evangelist/peerstreet/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
