@@ -44,7 +44,7 @@ accessModel:
   method: derived
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-09-15'
+modified: '2026-09-16'
 image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company-logos/peerstreet.png
 tags:
 - Company
@@ -55,6 +55,7 @@ tags:
 - Marketplace
 - Crowdfunding
 - a16z Portfolio
+- Defunct
 tags_raw:
 - Company
 - Real Estate
@@ -64,6 +65,7 @@ tags_raw:
 - Marketplace
 - Crowdfunding
 - a16z Portfolio
+- Defunct
 apis: []
 common:
 - type: DomainSecurity
